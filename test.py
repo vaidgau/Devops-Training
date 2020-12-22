@@ -4,3 +4,4 @@ c=30
 print("Hello")
 print(a)
 print(b)
+print("blame commands")
