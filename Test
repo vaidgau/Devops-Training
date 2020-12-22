@@ -1,0 +1,5 @@
+Feature: To test
+Scenario: Test Username
+Given I am login page
+Then I enter Username
+And I enter the Password
